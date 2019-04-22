@@ -1,1 +1,2 @@
 Hello Git!
+Time to commit!
